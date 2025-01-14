@@ -37,3 +37,10 @@ Your app is ready to be deployed!
 
 
 ### `npm run build` fails to minify
+
+Screen Shots
+
+
+![image](https://github.com/user-attachments/assets/13d4ed62-0bb7-444f-9dad-7d5e69f5f05c)
+![image](https://github.com/user-attachments/assets/0345611a-5932-42c0-a77f-4e7f780ec7f9)
+
