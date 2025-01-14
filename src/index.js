@@ -63,7 +63,7 @@ function Header() {
 
   return (
     <header className="header">
-      <h1 style={style}>Subhash React Pizza Co.</h1>
+      <h1 style={style}> <marquee>Subhash Pizza Co.</marquee></h1>
     </header>
   );
 }

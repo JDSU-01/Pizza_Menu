@@ -12,10 +12,10 @@ html {
 
 body {
   font-family: "Roboto Mono", sans-serif;
-  color: #69247C;
+  color: #FFB200;
   font-weight: 400;
   background-color: black;
-  border-bottom: 1.6rem solid #E82561;
+  border-bottom: 1.6rem solid #D91656;
   min-height: 100vh;
   padding: 3.2rem;
   padding-bottom: 6rem;
@@ -39,7 +39,7 @@ body {
 
 .header h1 {
   /* Non-accessible color */
-  color: #A9BFA8;
+  color: #640D5F;
   /* color: #af8602; */
 
   text-transform: uppercase;
@@ -58,7 +58,7 @@ body {
   content: "";
   height: 3px;
   width: 4rem;
-  background-color: #A9BFA8;
+  background-color: #640D5F;
   position: absolute;
   top: calc(50% - 1px);
 }
@@ -168,14 +168,14 @@ body {
   border: none;
   font-size: 1.4rem;
   font-weight: 500;
-  background-color: #E82561;
+  background-color: #074799;
   padding: 1.4rem 3.2rem;
   cursor: pointer;
   transition: all 0.2s;
 }
 
 .btn:hover {
-  background-color: #E82561;
+  background-color: #074799;
 }
 
 /*
